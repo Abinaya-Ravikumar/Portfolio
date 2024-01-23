@@ -1,0 +1,27 @@
+
+table, th,tr, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 900px;
+}
+
+.sub{
+  padding-left: 5%;
+}
+
+.container{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.rounded{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  /* overflow: hidden;
+  margin: auto;
+  display: flex; */
+}
+
+/* para{
+  font-family:;
+} */
